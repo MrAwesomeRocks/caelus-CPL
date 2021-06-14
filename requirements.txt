@@ -19,3 +19,5 @@ ply
 pytest
 pylint
 Sphinx
+black
+sphinxcontrib_bibtex
