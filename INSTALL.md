@@ -38,7 +38,7 @@ The [documentation](http://caelus.readthedocs.io/en/latest) and [installation in
 
     </details>
 
-3. Set the `WORKON_HOME` environment variable to `$HOME/.envs` or `%USERPROFILE%\.envs` to give the virtualenvs a consistent location. This is optional, but highly recommended.
+3. Set the `WORKON_HOME` environment variable to `$HOME/.envs` or `%USERPROFILE%\.envs` to give the virtualenvs a consistent location. This is optional, but highly recommended. You also may want to set `VIRTUALENVWRAPPER_WORKON_CD` to `0` so that `virtualenvwrapper` doesn't change your directory when activating virtualenvs.
 
 4. Clone the CPL source:
    ```sh
