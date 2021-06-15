@@ -12,4 +12,6 @@ LICENSE.txt) for details.
 
 ## Documentation
 
-Please see [online documentation](https://caelus.readthedocs.io/en/latest/) for th installation instructions, user manual, as well as the API reference manual.  
+Please see [online documentation](https://caelus.readthedocs.io/en/latest/) for th installation instructions, user manual, as well as the API reference manual.
+
+Installation instructions can also be found in [INSTALL.md](./INSTALL.md).
